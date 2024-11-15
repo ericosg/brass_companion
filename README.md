@@ -1,6 +1,6 @@
-# brass_companion
+# A Brass: Birmingham, Board Game companion app, to track player order, income, income points and victory points.
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
