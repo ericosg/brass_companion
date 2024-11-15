@@ -1,0 +1,6 @@
+{
+  "appTitle": "brass_companion",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
